@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e567ac6049b912d59fca64d6ad154f5e",
+    "revision": "b812ce8c4bc9f8694ce70027a1969453",
     "url": "/simple-todo-app-reactjs/index.html"
   },
   {
-    "revision": "7d05a1421ecf8d20bab7",
+    "revision": "b55469987f5ac1339de6",
     "url": "/simple-todo-app-reactjs/static/css/main.7225289e.chunk.css"
   },
   {
-    "revision": "08d666c9f6329e826101",
-    "url": "/simple-todo-app-reactjs/static/js/2.40cd4507.chunk.js"
+    "revision": "1f6e76941344281024ba",
+    "url": "/simple-todo-app-reactjs/static/js/2.afd986a5.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/simple-todo-app-reactjs/static/js/2.40cd4507.chunk.js.LICENSE.txt"
+    "url": "/simple-todo-app-reactjs/static/js/2.afd986a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d05a1421ecf8d20bab7",
-    "url": "/simple-todo-app-reactjs/static/js/main.f4b518ea.chunk.js"
+    "revision": "b55469987f5ac1339de6",
+    "url": "/simple-todo-app-reactjs/static/js/main.4b26329f.chunk.js"
   },
   {
     "revision": "c02355795ec9e2279507",
